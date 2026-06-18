@@ -37,7 +37,7 @@ A passionate developer interested in building web and desktop applications.
 ## 🌐 Languages
 * **Burmese:** Native
 * **Japanese:** JLPT N4 Completed 🇯🇵
-* **English:** Conversational / Basic
+* **English:** Conversational / B1
 
 ---
 
@@ -45,7 +45,6 @@ A passionate developer interested in building web and desktop applications.
 * **FE (Fundamental Information Technology Engineer)** – ITPEC / MCPA
 * **IP (Information Technology Passport)** – ITPEC / MCPA
 * **JLPT N4** – Japanese-Language Proficiency Test
-* * **English:** B1
   
 ---
   
