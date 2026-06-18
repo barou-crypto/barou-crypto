@@ -1,8 +1,14 @@
 # Hi there! 👋 I'm Bhone Myint Aung
 
-A passionate developer interested in building web and desktop applications.
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ED8B00&width=435&lines=Java+%26+Web+Developer;Building+clean+applications;Passionate+Problem+Solver" alt="Typing SVG" /></a>
+</p>
 
 🚀 **⚡ Professional Milestone:** Proud to have successfully built and deployed a commercial project for a client! Currently exploring new opportunities and working on next-generation web applications.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation">
+</p>
 
 ---
 
@@ -62,6 +68,14 @@ A passionate developer interested in building web and desktop applications.
 * **Burmese:** Native
 * **Japanese:** JLPT N4 Completed 🇯🇵
 * **English:** Conversational (B1)
+
+---
+
+## 📊 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=barou-crypto&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barou-crypto&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
