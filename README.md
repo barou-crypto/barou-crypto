@@ -22,8 +22,6 @@ A passionate developer interested in building web and desktop applications.
 
 ## 📁 My Projects
 
-এখানে သင့်ရဲ့ Project နာမည်တွေနဲ့ အသေးစိတ်ကို ထည့်သွင်းနိုင်ပါတယ်။
-
 ### 1. [Online CarRental]
 * **Description:** ဒီ Project က ဘာအတွက်လဲဆိုတာကို စာအနည်းငယ်ဖြင့် ရှင်းပြပါ။ (e.g., E-commerce website, Student Management System)
 * **Tech Stack:** HTML, CSS, PHP, JavaScript
