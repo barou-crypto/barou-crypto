@@ -2,6 +2,8 @@
 
 A passionate developer interested in building web and desktop applications.
 
+🚀 **⚡ Professional Milestone:** Proud to have successfully built and deployed a commercial project for a client! Currently exploring new opportunities and working on next-generation web applications.
+
 ---
 
 ## 🛠️ My Tech Stack & Skills
@@ -13,12 +15,14 @@ A passionate developer interested in building web and desktop applications.
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### ☕ Java Enterprise & Desktop
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![J2EE](https://img.shields.io/badge/J2EE-%233A75B5.svg?style=for-the-badge&logo=jakartaee&logoColor=white)
 * **J2SE / J2EE & Spring Framework**
 
 ### 🧰 Tools & IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse%20ide&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
