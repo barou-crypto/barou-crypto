@@ -32,7 +32,7 @@ A passionate developer interested in building web and desktop applications.
 
 ### 🛒 Nexgen Multiple Market Place
 * **Description:** An advanced multi-vendor marketplace platform built utilizing Java enterprise capabilities.
-* **Tech Stack:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) `J2EE` ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+* **Tech Stack:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![J2EE](https://img.shields.io/badge/-J2EE-3A75B5?style=flat-square&logo=jakartaee&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 * **Link:** [📁 View Repository](https://github.com/barou-crypto)
 
 ### 📝 Interactive Quiz App
