@@ -27,13 +27,23 @@ A passionate developer interested in building web and desktop applications.
 
 ### 🚗 Online CarRental
 * **Description:** A web-based car rental platform that allows users to browse and book vehicles online efficiently.
-* **Tech Stack:** `HTML`, `CSS`, `PHP`, `JavaScript`
-* **Link:** [View Code](https://github.com/barou-crypto) _(သင့် Project Link ထည့်ရန်)_
+* **Tech Stack:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+* **Link:** [📁 View Repository](https://github.com/barou-crypto)
 
 ### 🛒 Nexgen Multiple Market Place
 * **Description:** An advanced multi-vendor marketplace platform built utilizing Java enterprise capabilities.
-* **Tech Stack:** `J2SE`, `J2EE`, `Eclipse`, `MySQL`
-* **Link:** [View Code](https://github.com/barou-crypto) _(သင့် Project Link ထည့်ရန်)_
+* **Tech Stack:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) `J2EE` ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+* **Link:** [📁 View Repository](https://github.com/barou-crypto)
+
+### 📝 Interactive Quiz App
+* **Description:** A dynamic and responsive quiz application designed to test user knowledge with real-time score tracking.
+* **Tech Stack:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+* **Link:** [📁 View Repository](https://github.com/barou-crypto)
+
+### 🎬 Movie Info Hub
+* **Description:** A beautifully designed, fully responsive frontend website showcasing movies, ratings, and cinematic details.
+* **Tech Stack:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+* **Link:** [📁 View Repository](https://github.com/barou-crypto)
 
 ---
 
