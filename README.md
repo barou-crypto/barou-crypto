@@ -7,7 +7,7 @@
 🚀 **⚡ Professional Milestone:** Proud to have successfully built and deployed a commercial project for a client! Currently exploring new opportunities and working on next-generation web applications.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0bXlsM3NjcGZ3cjZ2ajRiaXB5MnRxbXFvMWV0eWZic3BtN2ZkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Transparent Coding GIF">
 </p>
 
 ---
