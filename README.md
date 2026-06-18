@@ -34,6 +34,21 @@ A passionate developer interested in building web and desktop applications.
 
 ---
 
+## 🌐 Languages
+* **Burmese:** Native
+* **Japanese:** JLPT N4 Completed 🇯🇵
+* **English:** Conversational / Basic
+
+---
+
+## 🏆 Certifications & Qualifications
+* **FE (Fundamental Information Technology Engineer)** – ITPEC / MCPA
+* **IP (Information Technology Passport)** – ITPEC / MCPA
+* **JLPT N4** – Japanese-Language Proficiency Test
+* * **English:** B1
+  
+---
+  
 ## 📫 Connect with Me
 * 📧 Email: [bhonemyintag26@gmail.com]
 * 💼 LinkedIn: [Your LinkedIn Profile Link]
